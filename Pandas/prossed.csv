@@ -1,0 +1,861 @@
+,movieId,movieTitle,releaseDate,Genre
+0,958,To Live (Huozhe) (1994),01-Jan-94,['Drama']
+1,218,Cape Fear (1991),01-Jan-91,['Thriller']
+2,171,Delicatessen (1991),01-Jan-91,"['Comedy', 'SciFi']"
+3,98,"Silence of the Lambs, The (1991)",01-Jan-91,"['Drama', 'Thriller']"
+4,227,Star Trek VI: The Undiscovered Country (1991),01-Jan-91,"['Action', 'Adventure', 'SciFi']"
+5,96,Terminator 2: Judgment Day (1991),01-Jan-91,"['Action', 'SciFi', 'Thriller']"
+6,95,Aladdin (1992),01-Jan-92,"['Animation', 'Childrens', 'Comedy', 'Musical']"
+7,159,Basic Instinct (1992),01-Jan-92,"['Mystery', 'Thriller']"
+8,231,Batman Returns (1992),01-Jan-92,"['Action', 'Adventure', 'Comedy', 'Crime']"
+9,425,Bob Roberts (1992),01-Jan-92,['Comedy']
+10,765,Boomerang (1992),01-Jan-92,"['Comedy', 'Romance']"
+11,217,Bram Stoker's Dracula (1992),01-Jan-92,"['Horror', 'Romance']"
+12,672,Candyman (1992),01-Jan-92,['Horror']
+13,1567,Careful (1992),01-Jan-92,['Comedy']
+14,462,Like Water For Chocolate (Como agua para chocolate) (1992),01-Jan-92,"['Drama', 'Romance']"
+15,1056,Cronos (1992),01-Jan-92,['Horror']
+16,1565,Daens (1992),01-Jan-92,['Drama']
+17,160,Glengarry Glen Ross (1992),01-Jan-92,['Drama']
+18,1341,Hedd Wyn (1992),01-Jan-92,['Drama']
+19,128,Supercop (1992),26-Jul-96,"['Action', 'Thriller']"
+20,241,"Last of the Mohicans, The (1992)",01-Jan-92,"['Action', 'Romance', 'War']"
+21,145,"Lawnmower Man, The (1992)",01-Jan-92,"['Action', 'SciFi', 'Thriller']"
+22,1268,Bitter Moon (1992),01-Jan-92,['Drama']
+23,1196,"Savage Nights (Nuits fauves, Les) (1992)",01-Jan-92,['Drama']
+24,972,Passion Fish (1992),01-Jan-92,['Drama']
+25,1570,Quartier Mozart (1992),01-Jan-92,['Comedy']
+26,466,Red Rock West (1992),01-Jan-92,['Thriller']
+27,156,Reservoir Dogs (1992),01-Jan-92,"['Crime', 'Thriller']"
+28,1597,Romper Stomper (1992),01-Jan-92,"['Action', 'Drama']"
+29,239,Sneakers (1992),01-Jan-92,"['Crime', 'Drama', 'SciFi']"
+30,709,Strictly Ballroom (1992),01-Jan-92,"['Comedy', 'Romance']"
+31,233,Under Siege (1992),01-Jan-92,['Action']
+32,203,Unforgiven (1992),01-Jan-92,[]
+33,1354,Venice/Venice (1992),01-Jan-92,['Drama']
+34,1568,Vermont Is For Lovers (1992),01-Jan-92,"['Comedy', 'Romance']"
+35,386,Addams Family Values (1993),01-Jan-93,['Comedy']
+36,387,"Age of Innocence, The (1993)",01-Jan-93,['Drama']
+37,1206,Amos & Andrew (1993),01-Jan-93,['Comedy']
+38,571,Another Stakeout (1993),01-Jan-93,"['Comedy', 'Thriller']"
+39,184,Army of Darkness (1993),01-Jan-93,"['Action', 'Adventure', 'Comedy', 'Horror', 'SciFi']"
+40,1153,Backbeat (1993),01-Jan-93,"['Drama', 'Musical']"
+41,747,Benny & Joon (1993),01-Jan-93,"['Comedy', 'Romance']"
+42,1030,"Beverly Hillbillies, The (1993)",01-Jan-93,['Comedy']
+43,784,Beyond Bedlam (1993),01-Jan-93,"['Drama', 'Horror']"
+44,573,Body Snatchers (1993),01-Jan-93,"['Horror', 'SciFi', 'Thriller']"
+45,574,Boxing Helena (1993),01-Jan-93,"['Mystery', 'Romance', 'Thriller']"
+46,467,"Bronx Tale, A (1993)",01-Jan-93,['Drama']
+47,1146,Calendar Girl (1993),01-Jan-93,['Drama']
+48,76,Carlito's Way (1993),01-Jan-93,"['Crime', 'Drama']"
+49,576,Cliffhanger (1993),01-Jan-93,"['Action', 'Adventure', 'Crime']"
+50,577,Coneheads (1993),01-Jan-93,"['Comedy', 'SciFi']"
+51,1035,Cool Runnings (1993),01-Jan-93,['Comedy']
+52,732,Dave (1993),01-Jan-93,"['Comedy', 'Romance']"
+53,959,Dazed and Confused (1993),01-Jan-93,['Comedy']
+54,578,Demolition Man (1993),01-Jan-93,"['Action', 'SciFi']"
+55,579,Fatal Instinct (1993),01-Jan-93,['Comedy']
+56,390,Fear of a Black Hat (1993),01-Jan-93,['Comedy']
+57,1045,Fearless (1993),01-Jan-93,['Drama']
+58,77,"Firm, The (1993)",01-Jan-93,"['Drama', 'Thriller']"
+59,1212,Flesh and Bone (1993),01-Jan-93,"['Drama', 'Mystery', 'Romance']"
+60,1249,For Love or Money (1993),01-Jan-93,['Comedy']
+61,78,Free Willy (1993),01-Jan-93,"['Adventure', 'Childrens', 'Drama']"
+62,1195,Strawberry and Chocolate (Fresa y chocolate) (1993),01-Jan-93,['Drama']
+63,79,"Fugitive, The (1993)",01-Jan-93,"['Action', 'Thriller']"
+64,1004,Geronimo: An American Legend (1993),01-Jan-93,['Drama']
+65,202,Groundhog Day (1993),01-Jan-93,"['Comedy', 'Romance']"
+66,1213,Guilty as Sin (1993),01-Jan-93,"['Crime', 'Drama', 'Thriller']"
+67,802,Hard Target (1993),01-Jan-93,"['Action', 'Adventure', 'Crime', 'Thriller']"
+68,803,Heaven & Earth (1993),01-Jan-93,"['Action', 'Drama', 'War']"
+69,140,Homeward Bound: The Incredible Journey (1993),01-Jan-93,"['Adventure', 'Childrens']"
+70,80,Hot Shots! Part Deux (1993),01-Jan-93,"['Action', 'Comedy', 'War']"
+71,704,"House of the Spirits, The (1993)",01-Jan-93,"['Drama', 'Romance']"
+72,684,In the Line of Fire (1993),01-Jan-93,"['Action', 'Thriller']"
+73,317,In the Name of the Father (1993),01-Jan-93,['Drama']
+74,1365,Johnny 100 Pesos (1993),01-Jan-93,"['Action', 'Drama']"
+75,1222,Judgment Night (1993),01-Jan-93,['Action']
+76,82,Jurassic Park (1993),01-Jan-93,"['Action', 'Adventure', 'SciFi']"
+77,581,Kalifornia (1993),01-Jan-93,"['Drama', 'Thriller']"
+78,1672,Kika (1993),01-Jan-93,['Drama']
+79,1223,King of the Hill (1993),01-Jan-93,['Drama']
+80,1631,"Slingshot, The (1993)",01-Jan-93,"['Comedy', 'Drama']"
+81,391,Last Action Hero (1993),01-Jan-93,"['Action', 'Comedy']"
+82,1270,Life with Mikey (1993),01-Jan-93,['Comedy']
+83,1168,Little Buddha (1993),01-Jan-93,['Drama']
+84,701,"Wonderful, Horrible Life of Leni Riefenstahl, The (1993)",01-Jan-93,['Documentary']
+85,734,Made in America (1993),01-Jan-93,['Comedy']
+86,1046,Malice (1993),01-Jan-93,['Thriller']
+87,392,"Man Without a Face, The (1993)",01-Jan-93,['Drama']
+88,805,Manhattan Murder Mystery (1993),01-Jan-93,"['Comedy', 'Mystery']"
+89,806,Menace II Society (1993),01-Jan-93,"['Action', 'Crime', 'Drama']"
+90,393,Mrs. Doubtfire (1993),01-Jan-93,['Comedy']
+91,83,Much Ado About Nothing (1993),01-Jan-93,"['Comedy', 'Romance']"
+92,960,Naked (1993),01-Jan-93,['Drama']
+93,91,"Nightmare Before Christmas, The (1993)",01-Jan-93,"['Childrens', 'Comedy', 'Musical']"
+94,1562,"Eye of Vichy, The (Oeil de Vichy, L') (1993)",01-Jan-93,['Documentary']
+95,961,Orlando (1993),01-Jan-93,['Drama']
+96,1622,"Paris, France (1993)",01-Jan-93,['Comedy']
+97,686,"Perfect World, A (1993)",01-Jan-93,"['Action', 'Drama']"
+98,735,Philadelphia (1993),01-Jan-93,['Drama']
+99,582,"Piano, The (1993)",01-Jan-93,"['Drama', 'Romance']"
+100,807,Poetic Justice (1993),01-Jan-93,['Drama']
+101,808,"Program, The (1993)",01-Jan-93,"['Action', 'Drama']"
+102,86,"Remains of the Day, The (1993)",01-Jan-93,['Drama']
+103,809,Rising Sun (1993),01-Jan-93,"['Action', 'Drama', 'Mystery']"
+104,395,Robin Hood: Men in Tights (1993),01-Jan-93,['Comedy']
+105,1274,Robocop 3 (1993),01-Jan-93,"['SciFi', 'Thriller']"
+106,583,Romeo Is Bleeding (1993),01-Jan-93,"['Crime', 'Thriller']"
+107,962,Ruby in Paradise (1993),01-Jan-93,['Drama']
+108,468,Rudy (1993),01-Jan-93,['Drama']
+109,318,Schindler's List (1993),01-Jan-93,"['Drama', 'War']"
+110,87,Searching for Bobby Fischer (1993),01-Jan-93,['Drama']
+111,1555,"Secret Adventures of Tom Thumb, The (1993)",01-Jan-93,"['Adventure', 'Childrens']"
+112,584,"Secret Garden, The (1993)",01-Jan-93,"['Childrens', 'Drama']"
+113,736,Shadowlands (1993),01-Jan-93,"['Drama', 'Romance']"
+114,469,Short Cuts (1993),01-Jan-93,['Drama']
+115,1101,Six Degrees of Separation (1993),01-Jan-93,"['Drama', 'Mystery']"
+116,88,Sleepless in Seattle (1993),01-Jan-93,"['Comedy', 'Romance']"
+117,90,So I Married an Axe Murderer (1993),01-Jan-93,"['Comedy', 'Romance', 'Thriller']"
+118,585,Son in Law (1993),01-Jan-93,['Comedy']
+119,593,Stalingrad (1993),01-Jan-93,['War']
+120,1339,Stefano Quantestorie (1993),01-Jan-93,"['Comedy', 'Drama']"
+121,397,Striking Distance (1993),01-Jan-93,['Action']
+122,398,Super Mario Bros. (1993),01-Jan-93,"['Action', 'Adventure', 'Childrens', 'SciFi']"
+123,811,Thirty-Two Short Films About Glenn Gould (1993),01-Jan-93,['Documentary']
+124,399,"Three Musketeers, The (1993)",01-Jan-93,"['Action', 'Adventure', 'Comedy']"
+125,470,Tombstone (1993),01-Jan-93,[]
+126,60,Three Colors: Blue (1993),01-Jan-93,['Drama']
+127,92,True Romance (1993),01-Jan-93,"['Action', 'Crime', 'Romance']"
+128,1141,"War Room, The (1993)",01-Jan-93,['Documentary']
+129,65,What's Eating Gilbert Grape (1993),01-Jan-93,"['Comedy', 'Drama']"
+130,942,What's Love Got to Do with It (1993),01-Jan-93,['Drama']
+131,1353,1-900 (1994),01-Jan-94,['Romance']
+132,1633,� k�ldum klaka (Cold Fever) (1994) ? 95,08-Mar-96,"['Comedy', 'Drama']"
+133,67,Ace Ventura: Pet Detective (1994),01-Jan-94,['Comedy']
+134,382,"Adventures of Priscilla, Queen of the Desert, The (1994)",01-Jan-94,"['Comedy', 'Drama']"
+135,801,"Air Up There, The (1994)",01-Jan-94,['Comedy']
+136,940,Airheads (1994),01-Jan-94,['Comedy']
+137,1069,Amateur (1994),01-Jan-94,"['Crime', 'Drama', 'Thriller']"
+138,812,Andre (1994),01-Jan-94,"['Adventure', 'Childrens']"
+139,1308,Babyfever (1994),01-Jan-94,"['Comedy', 'Drama']"
+140,1247,Bad Girls (1994),01-Jan-94,[]
+141,702,Barcelona (1994),01-Jan-94,"['Comedy', 'Romance']"
+142,388,Beverly Hills Cop III (1994),01-Jan-94,"['Action', 'Comedy']"
+143,1202,"Maybe, Maybe Not (Bewegte Mann, Der) (1994)",19-Jul-96,['Comedy']
+144,389,Black Beauty (1994),01-Jan-94,"['Adventure', 'Childrens']"
+145,1248,Blink (1994),01-Jan-94,['Thriller']
+146,572,Blown Away (1994),01-Jan-94,"['Action', 'Thriller']"
+147,1145,Blue Chips (1994),01-Jan-94,['Drama']
+148,1211,Blue Sky (1994),01-Jan-94,"['Drama', 'Romance']"
+149,75,Brother Minister: The Assassination of Malcolm X (1994),01-Jan-94,['Documentary']
+150,698,"Browning Version, The (1994)",01-Jan-94,['Drama']
+151,792,Bullets Over Broadway (1994),01-Jan-94,['Comedy']
+152,998,Cabin Boy (1994),01-Jan-94,['Comedy']
+153,1327,Captives (1994),16-Sep-94,['Drama']
+154,1129,Chungking Express (1994),16-Feb-96,"['Drama', 'Mystery', 'Romance']"
+155,575,City Slickers II: The Legend of Curly's Gold (1994),01-Jan-94,['Comedy']
+156,999,Clean Slate (1994),01-Jan-94,['Comedy']
+157,566,Clear and Present Danger (1994),01-Jan-94,"['Action', 'Adventure', 'Thriller']"
+158,42,Clerks (1994),01-Jan-94,['Comedy']
+159,356,"Client, The (1994)",01-Jan-94,"['Drama', 'Mystery', 'Thriller']"
+160,1112,Cobb (1994),01-Jan-94,['Drama']
+161,1273,Color of Night (1994),01-Jan-94,"['Drama', 'Thriller']"
+162,1182,Cops and Robbersons (1994),01-Jan-94,['Comedy']
+163,731,"Corrina, Corrina (1994)",01-Jan-94,"['Comedy', 'Drama', 'Romance']"
+164,1080,Celestial Clockwork (1994),12-Jul-96,['Comedy']
+165,1290,Country Life (1994),01-Jan-94,"['Drama', 'Romance']"
+166,1183,"Cowboy Way, The (1994)",01-Jan-94,"['Action', 'Comedy']"
+167,793,Crooklyn (1994),01-Jan-94,['Comedy']
+168,68,"Crow, The (1994)",01-Jan-94,"['Action', 'Romance', 'Thriller']"
+169,32,Crumb (1994),01-Jan-94,['Documentary']
+170,1109,Death and the Maiden (1994),01-Jan-94,"['Drama', 'Thriller']"
+171,1199,Cemetery Man (Dellamorte Dellamore) (1994),12-Apr-96,"['Comedy', 'Horror']"
+172,43,Disclosure (1994),01-Jan-94,"['Drama', 'Thriller']"
+173,44,Dolores Claiborne (1994),01-Jan-94,"['Drama', 'Thriller']"
+174,1111,Double Happiness (1994),01-Mar-96,['Drama']
+175,779,Drop Zone (1994),01-Jan-94,['Action']
+176,780,Dumb & Dumber (1994),01-Jan-94,['Comedy']
+177,47,Ed Wood (1994),01-Jan-94,"['Comedy', 'Drama']"
+178,1184,"Endless Summer 2, The (1994)",01-Jan-94,['Documentary']
+179,725,Exit to Eden (1994),01-Jan-94,['Comedy']
+180,46,Exotica (1994),01-Jan-94,['Drama']
+181,1655,"Favor, The (1994)",01-Jan-94,"['Comedy', 'Romance']"
+182,383,"Flintstones, The (1994)",01-Jan-94,"['Childrens', 'Comedy']"
+183,1357,For the Moment (1994),01-Jan-94,"['Romance', 'War']"
+184,69,Forrest Gump (1994),01-Jan-94,"['Comedy', 'Romance', 'War']"
+185,70,Four Weddings and a Funeral (1994),01-Jan-94,"['Comedy', 'Romance']"
+186,561,Mary Shelley's Frankenstein (1994),01-Jan-94,"['Drama', 'Horror']"
+187,1169,Fresh (1994),01-Jan-94,['Drama']
+188,1303,"Getaway, The (1994)",01-Jan-94,['Action']
+189,733,Go Fish (1994),01-Jan-94,"['Drama', 'Romance']"
+190,814,"Great Day in Harlem, A (1994)",01-Jan-94,['Documentary']
+191,1600,Guantanamera (1994) ? 95,16-May-97,['Comedy']
+192,558,Heavenly Creatures (1994),01-Jan-94,"['Drama', 'Fantasy', 'Thriller']"
+193,377,Heavyweights (1995),01-Jan-94,"['Childrens', 'Comedy']"
+194,48,Hoop Dreams (1994),01-Jan-94,['Documentary']
+195,376,Houseguest (1995),01-Jan-94,['Comedy']
+196,81,"Hudsucker Proxy, The (1994)",01-Jan-94,"['Comedy', 'Romance']"
+197,1180,I Love Trouble (1994),01-Jan-94,"['Action', 'Comedy']"
+198,49,I.Q. (1994),01-Jan-94,"['Comedy', 'Romance']"
+199,727,Immortal Beloved (1994),01-Jan-94,"['Drama', 'Romance']"
+200,1185,In the Army Now (1994),01-Jan-94,"['Comedy', 'War']"
+201,1186,"Inkwell, The (1994)",01-Jan-94,"['Comedy', 'Drama']"
+202,559,Interview with the Vampire (1994),01-Jan-94,"['Drama', 'Horror']"
+203,794,It Could Happen to You (1994),01-Jan-94,"['Drama', 'Romance']"
+204,1370,I Can't Sleep (J'ai pas sommeil) (1994),01-Jan-94,"['Drama', 'Thriller']"
+205,1366,JLG/JLG - autoportrait de d�cembre (1994),01-Jan-94,"['Documentary', 'Drama']"
+206,804,Jimmy Hollywood (1994),01-Jan-94,['Comedy']
+207,465,"Jungle Book, The (1994)",01-Jan-94,"['Adventure', 'Childrens', 'Romance']"
+208,728,Junior (1994),01-Jan-94,"['Comedy', 'SciFi']"
+209,1626,Nobody Loves Me (Keiner liebt mich) (1994),09-Feb-96,"['Comedy', 'Drama']"
+210,1275,Killer (Bulletproof Heart) (1994),,['Thriller']
+211,943,Killing Zoe (1994),01-Jan-94,['Thriller']
+212,1628,Lamerica (1994),01-Jan-94,['Drama']
+213,741,"Last Supper, The (1995)",05-Apr-96,"['Drama', 'Thriller']"
+214,51,Legends of the Fall (1994),01-Jan-94,"['Drama', 'Romance', 'War']"
+215,1000,Lightning Jack (1994),01-Jan-94,['Comedy']
+216,71,"Lion King, The (1994)",01-Jan-94,"['Animation', 'Childrens', 'Musical']"
+217,1032,Little Big League (1994),01-Jan-94,"['Childrens', 'Comedy']"
+218,782,Little Odessa (1994),01-Jan-94,['Drama']
+219,400,"Little Rascals, The (1994)",01-Jan-94,"['Childrens', 'Comedy']"
+220,699,Little Women (1994),01-Jan-94,['Drama']
+221,1324,Loaded (1994),12-Apr-96,"['Drama', 'Thriller']"
+222,1297,Love Affair (1994),01-Jan-94,"['Drama', 'Romance']"
+223,1077,Love and a .45 (1994),01-Jan-94,['Thriller']
+224,1181,"Low Down Dirty Shame, A (1994)",01-Jan-94,"['Action', 'Comedy']"
+225,55,"Professional, The (1994)",01-Jan-94,"['Crime', 'Drama', 'Romance', 'Thriller']"
+226,52,"Madness of King George, The (1994)",01-Jan-94,['Drama']
+227,1075,"Man of No Importance, A (1994)",01-Jan-94,['Drama']
+228,72,"Mask, The (1994)",01-Jan-94,"['Comedy', 'Crime', 'Fantasy']"
+229,73,Maverick (1994),01-Jan-94,"['Action', 'Comedy']"
+230,119,Maya Lin: A Strong Clear Vision (1994),01-Jan-94,['Documentary']
+231,783,Milk Money (1994),01-Jan-94,"['Comedy', 'Romance']"
+232,1368,Mina Tannenbaum (1994),01-Jan-94,['Drama']
+233,378,Miracle on 34th Street (1994),01-Jan-94,['Drama']
+234,1209,Mixed Nuts (1994),01-Jan-94,['Comedy']
+235,1113,Mrs. Parker and the Vicious Circle (1994),01-Jan-94,['Drama']
+236,381,Muriel's Wedding (1994),01-Jan-94,"['Comedy', 'Romance']"
+237,37,Nadja (1994),01-Jan-94,['Drama']
+238,384,Naked Gun 33 1/3: The Final Insult (1994),01-Jan-94,['Comedy']
+239,53,Natural Born Killers (1994),01-Jan-94,"['Action', 'Thriller']"
+240,729,Nell (1994),01-Jan-94,['Drama']
+241,548,"NeverEnding Story III, The (1994)",02-Feb-96,"['Childrens', 'Fantasy']"
+242,1661,"New Age, The (1994)",01-Jan-94,['Drama']
+243,956,Nobody's Fool (1994),01-Jan-94,['Drama']
+244,1271,North (1994),01-Jan-94,['Comedy']
+245,1264,Nothing to Lose (1994),16-Aug-96,['Drama']
+246,1328,Of Love and Shadows (1994),10-May-96,['Drama']
+247,1194,Once Were Warriors (1994),01-Jan-94,"['Crime', 'Drama']"
+248,785,Only You (1994),01-Jan-94,"['Comedy', 'Romance']"
+249,1076,"Pagemaster, The (1994)",01-Jan-94,"['Action', 'Adventure', 'Animation', 'Childrens', 'Fantasy']"
+250,1099,"Red Firecracker, Green Firecracker (1994)",01-Jan-94,['Drama']
+251,1044,"Paper, The (1994)",01-Jan-94,"['Comedy', 'Drama']"
+252,14,"Postino, Il (1994)",01-Jan-94,"['Drama', 'Romance']"
+253,1193,Before the Rain (Pred dozhdot) (1994),01-Jan-94,['Drama']
+254,57,Priest (1994),01-Jan-94,['Drama']
+255,1285,Princess Caraboo (1994),01-Jan-94,['Drama']
+256,1230,Ready to Wear (Pret-A-Porter) (1994),01-Jan-94,['Comedy']
+257,56,Pulp Fiction (1994),01-Jan-94,"['Crime', 'Drama']"
+258,58,Quiz Show (1994),01-Jan-94,['Drama']
+259,394,Radioland Murders (1994),01-Jan-94,"['Comedy', 'Mystery', 'Romance']"
+260,1074,Reality Bites (1994),01-Jan-94,"['Comedy', 'Drama']"
+261,85,"Ref, The (1994)",01-Jan-94,['Comedy']
+262,730,"Queen Margot (Reine Margot, La) (1994)",01-Jan-96,"['Drama', 'Romance']"
+263,788,Relative Fear (1994),01-Jan-94,"['Horror', 'Thriller']"
+264,944,Renaissance Man (1994),01-Jan-94,"['Comedy', 'Drama', 'War']"
+265,281,"River Wild, The (1994)",01-Jan-94,"['Action', 'Thriller']"
+266,1140,"Road to Wellville, The (1994)",01-Jan-94,['Comedy']
+267,84,Robert A. Heinlein's The Puppet Masters (1994),01-Jan-94,"['Horror', 'SciFi']"
+268,1171,Wild Reeds (1994),01-Jan-94,['Drama']
+269,1554,Safe Passage (1994),01-Jan-94,['Drama']
+270,63,"Santa Clause, The (1994)",01-Jan-94,"['Childrens', 'Comedy']"
+271,1224,"Scout, The (1994)",01-Jan-94,['Drama']
+272,463,"Secret of Roan Inish, The (1994)",01-Jan-94,['Adventure']
+273,396,Serial Mom (1994),01-Jan-94,"['Comedy', 'Crime', 'Horror']"
+274,810,"Shadow, The (1994)",01-Jan-94,['Action']
+275,1073,Shallow Grave (1994),01-Jan-94,['Thriller']
+276,64,"Shawshank Redemption, The (1994)",01-Jan-94,['Drama']
+277,1595,Shopping (1994),09-Feb-96,"['Action', 'Thriller']"
+278,1333,Midnight Dancers (Sibak) (1994),01-Jan-94,"['Comedy', 'Drama']"
+279,1055,"Simple Twist of Fate, A (1994)",01-Jan-94,['Drama']
+280,737,Sirens (1994),01-Jan-94,"['Comedy', 'Drama']"
+281,1334,Somebody to Love (1994),14-Jun-96,['Drama']
+282,1170,Spanking the Monkey (1994),01-Jan-94,"['Comedy', 'Drama']"
+283,796,Speechless (1994),01-Jan-94,"['Comedy', 'Romance']"
+284,568,Speed (1994),01-Jan-94,"['Action', 'Romance', 'Thriller']"
+285,380,Star Trek: Generations (1994),01-Jan-94,"['Action', 'Adventure', 'SciFi']"
+286,62,Stargate (1994),01-Jan-94,"['Action', 'Adventure', 'SciFi']"
+287,1167,"Sum of Us, The (1994)",01-Jan-94,['Comedy']
+288,1314,Surviving the Game (1994),01-Jan-94,"['Action', 'Adventure', 'Thriller']"
+289,1272,Talking About Sex (1994),01-Jan-94,"['Comedy', 'Drama']"
+290,586,Terminal Velocity (1994),01-Jan-94,['Action']
+291,738,Threesome (1994),01-Jan-94,"['Comedy', 'Romance']"
+292,1345,"Day the Sun Turned Cold, The (Tianguo niezi) (1994)",01-Jan-94,['Drama']
+293,1561,Tigrero: A Film That Was Never Made (1994),01-Jan-94,"['Documentary', 'Drama']"
+294,797,Timecop (1994),01-Jan-94,"['Action', 'SciFi']"
+295,1148,Tom & Viv (1994),01-Jan-94,['Drama']
+296,59,Three Colors: Red (1994),01-Jan-94,['Drama']
+297,385,True Lies (1994),01-Jan-94,"['Action', 'Adventure', 'Comedy', 'Romance']"
+298,61,Three Colors: White (1994),01-Jan-94,['Drama']
+299,1330,An Unforgettable Summer (1994),01-Jan-94,['Drama']
+300,753,Burnt By the Sun (1994),01-Jan-94,['Drama']
+301,464,Vanya on 42nd Street (1994),01-Jan-94,['Drama']
+302,1360,"Sexual Life of the Belgians, The (1994)",01-Jan-94,['Comedy']
+303,1058,"War, The (1994)",01-Jan-94,"['Adventure', 'Drama']"
+304,567,Wes Craven's New Nightmare (1994),01-Jan-94,['Horror']
+305,1100,What Happened Was... (1994),01-Jan-94,"['Comedy', 'Drama', 'Romance']"
+306,1221,When a Man Loves a Woman (1994),01-Jan-94,['Drama']
+307,703,Widows' Peak (1994),01-Jan-94,['Drama']
+308,941,With Honors (1994),01-Jan-94,"['Comedy', 'Drama']"
+309,569,Wolf (1994),01-Jan-94,"['Drama', 'Horror']"
+310,570,Wyatt Earp (1994),01-Jan-94,[]
+311,1557,Yankee Zulu (1994),16-Feb-96,"['Comedy', 'Drama']"
+312,45,Eat Drink Man Woman (1994),01-Jan-94,"['Comedy', 'Drama']"
+313,1681,You So Crazy (1994),01-Jan-94,['Comedy']
+314,364,Ace Ventura: When Nature Calls (1995),01-Jan-95,['Comedy']
+315,757,Across the Sea of Time (1995),01-Jan-95,['Documentary']
+316,767,"Addiction, The (1995)",01-Jan-95,['Horror']
+317,1469,Tom and Huck (1995),01-Jan-95,"['Adventure', 'Childrens']"
+318,1540,"Amazing Panda Adventure, The (1995)",01-Jan-95,"['Adventure', 'Childrens']"
+319,692,"American President, The (1995)",01-Jan-95,"['Comedy', 'Drama', 'Romance']"
+320,1643,Angel Baby (1995),10-Jan-97,['Drama']
+321,1603,Angela (1995),16-Feb-96,['Drama']
+322,20,Angels and Insects (1995),01-Jan-95,"['Drama', 'Romance']"
+323,1225,Angus (1995),01-Jan-95,['Comedy']
+324,1084,Anne Frank Remembered (1995),23-Feb-96,['Documentary']
+325,19,Antonia's Line (1995),01-Jan-95,['Drama']
+326,1217,Assassins (1995),01-Jan-95,['Thriller']
+327,1227,"Awfully Big Adventure, An (1995)",01-Jan-95,['Drama']
+328,8,Babe (1995),01-Jan-95,"['Childrens', 'Comedy', 'Drama']"
+329,791,"Baby-Sitters Club, The (1995)",01-Jan-95,['Childrens']
+330,1508,"Babysitter, The (1995)",01-Jan-95,"['Drama', 'Thriller']"
+331,27,Bad Boys (1995),01-Jan-95,['Action']
+332,798,Bad Company (1995),01-Jan-95,['Action']
+333,18,"White Balloon, The (1995)",01-Jan-95,['Drama']
+334,1066,Balto (1995),01-Jan-95,"['Animation', 'Childrens']"
+335,697,"Basketball Diaries, The (1995)",01-Jan-95,['Drama']
+336,29,Batman Forever (1995),01-Jan-95,"['Action', 'Adventure', 'Comedy', 'Crime']"
+337,955,Before Sunrise (1995),01-Jan-95,"['Drama', 'Romance']"
+338,1250,Best of the Best 3: No Turning Back (1995),01-Jan-95,['Action']
+339,1107,Beyond Rangoon (1995),01-Jan-95,['Drama']
+340,996,"Big Green, The (1995)",01-Jan-95,"['Childrens', 'Comedy']"
+341,41,Billy Madison (1995),01-Jan-95,['Comedy']
+342,1087,Bloodsport 2 (1995),01-Mar-96,['Action']
+343,952,Blue in the Face (1995),01-Jan-95,['Comedy']
+344,723,Boys on the Side (1995),01-Jan-95,"['Comedy', 'Drama']"
+345,401,"Brady Bunch Movie, The (1995)",01-Jan-95,['Comedy']
+346,22,Braveheart (1995),16-Feb-96,"['Action', 'Drama', 'War']"
+347,371,"Bridges of Madison County, The (1995)",09-Feb-96,"['Drama', 'Romance']"
+348,26,"Brothers McMullen, The (1995)",01-Jan-95,['Comedy']
+349,1636,Brothers in Trouble (1995),26-Apr-96,['Drama']
+350,1246,Bushwhacked (1995),01-Jan-95,['Comedy']
+351,1621,Butterfly Kiss (1995),26-Apr-96,['Thriller']
+352,1446,"Bye Bye, Love (1995)",01-Jan-95,['Comedy']
+353,816,Candyman: Farewell to the Flesh (1995),01-Jan-95,['Horror']
+354,714,Carrington (1995),01-Jan-95,"['Drama', 'Romance']"
+355,693,Casino (1995),01-Jan-95,['Drama']
+356,768,Casper (1995),01-Jan-95,"['Adventure', 'Childrens']"
+357,1318,Catwalk (1995),07-Jun-96,['Documentary']
+358,813,"Celluloid Closet, The (1995)",15-Mar-96,['Documentary']
+359,724,Circle of Friends (1995),01-Jan-95,"['Drama', 'Romance']"
+360,919,"City of Lost Children, The (1995)",01-Jan-95,"['Adventure', 'SciFi']"
+361,1267,Clockers (1995),01-Jan-95,['Drama']
+362,367,Clueless (1995),01-Jan-95,['Comedy']
+363,1414,Coldblooded (1995),01-Jan-95,['Action']
+364,1556,Condition Red (1995),01-Jan-95,"['Action', 'Drama', 'Thriller']"
+365,769,Congo (1995),01-Jan-95,"['Action', 'Adventure', 'Mystery', 'SciFi']"
+366,1342,"Convent, The (Convento, O) (1995)",14-Jun-96,['Drama']
+367,5,Copycat (1995),01-Jan-95,"['Crime', 'Drama', 'Thriller']"
+368,31,Crimson Tide (1995),01-Jan-95,"['Drama', 'Thriller', 'War']"
+369,460,"Crossing Guard, The (1995)",01-Jan-95,['Drama']
+370,1340,"Crude Oasis, The (1995)",01-Jan-95,['Romance']
+371,459,"Cry, the Beloved Country (1995)",01-Jan-95,['Drama']
+372,1468,"Cure, The (1995)",01-Jan-95,['Drama']
+373,1239,Cutthroat Island (1995),01-Jan-95,"['Action', 'Adventure', 'Romance']"
+374,1156,Cyclo (1995),02-Aug-96,"['Crime', 'Drama']"
+375,1623,"C�r�monie, La (1995)",20-Dec-96,['Drama']
+376,1641,Dadetown (1995),18-Sep-96,['Documentary']
+377,366,Dangerous Minds (1995),01-Jan-95,['Drama']
+378,922,Dead Man (1995),10-May-96,[]
+379,9,Dead Man Walking (1995),01-Jan-95,['Drama']
+380,1478,Dead Presidents (1995),01-Jan-95,"['Action', 'Crime', 'Drama']"
+381,1288,Denise Calls Up (1995),29-Mar-96,['Comedy']
+382,33,Desperado (1995),01-Jan-95,"['Action', 'Romance', 'Thriller']"
+383,1550,Destiny Turns on the Radio (1995),01-Jan-95,['Comedy']
+384,770,Devil in a Blue Dress (1995),01-Jan-95,"['Crime', 'FilmNoir', 'Mystery', 'Thriller']"
+385,550,Die Hard: With a Vengeance (1995),01-Jan-95,"['Action', 'Thriller']"
+386,34,"Doom Generation, The (1995)",01-Jan-95,"['Comedy', 'Drama']"
+387,1052,Dracula: Dead and Loving It (1995),01-Jan-95,"['Comedy', 'Horror']"
+388,1427,Drunks (1995),01-Nov-96,['Drama']
+389,580,"Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)",01-Jan-95,"['Comedy', 'Romance']"
+390,759,Fair Game (1995),01-Jan-95,['Action']
+391,1531,Far From Home: The Adventures of Yellow Dog (1995),01-Jan-95,"['Adventure', 'Childrens']"
+392,756,Father of the Bride Part II (1995),01-Jan-95,['Comedy']
+393,1520,"Fear, The (1995)",01-Jan-95,['Horror']
+394,1108,Feast of July (1995),01-Jan-95,['Drama']
+395,1158,"Fille seule, La (A Single Girl) (1995)",30-Oct-96,['Drama']
+396,720,First Knight (1995),01-Jan-95,"['Action', 'Adventure', 'Drama', 'Romance']"
+397,1495,Flirt (1995),07-Aug-96,['Drama']
+398,927,"Flower of My Secret, The (Flor de mi secreto, La) (1995)",08-Mar-96,['Drama']
+399,726,Fluke (1995),01-Jan-95,"['Childrens', 'Drama']"
+400,1041,Forget Paris (1995),01-Jan-95,"['Comedy', 'Romance']"
+401,3,Four Rooms (1995),01-Jan-95,['Thriller']
+402,1545,Frankie Starlight (1995),01-Jan-95,"['Drama', 'Romance']"
+403,35,Free Willy 2: The Adventure Home (1995),01-Jan-95,"['Adventure', 'Childrens', 'Drama']"
+404,781,French Kiss (1995),01-Jan-95,"['Comedy', 'Romance']"
+405,1218,Friday (1995),01-Jan-95,['Comedy']
+406,817,Frisk (1995),29-Mar-96,['Drama']
+407,16,French Twist (Gazon maudit) (1995),01-Jan-95,"['Comedy', 'Romance']"
+408,950,Georgia (1995),01-Jan-95,['Drama']
+409,4,Get Shorty (1995),01-Jan-95,"['Action', 'Comedy', 'Drama']"
+410,1486,Girl in the Cadillac (1995),01-Jan-95,['Drama']
+411,1503,Gold Diggers: The Secret of Bear Mountain (1995),01-Jan-95,"['Adventure', 'Childrens']"
+412,2,GoldenEye (1995),01-Jan-95,"['Action', 'Adventure', 'Thriller']"
+413,1219,"Goofy Movie, A (1995)",01-Jan-95,"['Animation', 'Childrens', 'Comedy', 'Romance']"
+414,1408,Gordy (1995),01-Jan-95,['Comedy']
+415,1282,"Grass Harp, The (1995)",11-Oct-96,['Drama']
+416,1028,Grumpier Old Men (1995),01-Jan-95,"['Comedy', 'Romance']"
+417,1470,Gumby: The Movie (1995),01-Jan-95,"['Animation', 'Childrens']"
+418,1139,Hackers (1995),01-Jan-95,"['Action', 'Crime', 'Thriller']"
+419,834,Halloween: The Curse of Michael Myers (1995),01-Jan-95,"['Horror', 'Thriller']"
+420,115,"Haunted World of Edward D. Wood Jr., The (1995)",26-Apr-96,['Documentary']
+421,273,Heat (1995),01-Jan-95,"['Action', 'Crime', 'Thriller']"
+422,594,Heavy (1995),05-Jun-96,"['Drama', 'Romance']"
+423,1471,Hideaway (1995),01-Jan-95,['Thriller']
+424,1220,Higher Learning (1995),01-Jan-95,['Drama']
+425,1380,Hollow Reed (1996),02-May-97,['Drama']
+426,1320,Homage (1995),03-May-96,['Drama']
+427,716,Home for the Holidays (1995),01-Jan-95,"['Drama', 'Romance']"
+428,24,Rumble in the Bronx (1995),23-Feb-96,"['Action', 'Adventure', 'Crime']"
+429,949,How to Make an American Quilt (1995),01-Jan-95,"['Drama', 'Romance']"
+430,1552,"Hunted, The (1995)",01-Jan-95,['Action']
+431,113,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",19-Apr-96,['Drama']
+432,951,"Indian in the Cupboard, The (1995)",01-Jan-95,"['Adventure', 'Childrens', 'Fantasy']"
+433,1390,"Innocent Sleep, The (1995)",27-Jun-97,['Crime']
+434,1544,It Takes Two (1995),01-Jan-95,['Comedy']
+435,1086,It's My Party (1995),22-Mar-96,['Drama']
+436,1289,Jack and Sarah (1995),22-Mar-96,['Romance']
+437,1207,Jade (1995),01-Jan-95,['Thriller']
+438,1530,Jefferson in Paris (1995),01-Jan-95,['Drama']
+439,372,Jeffrey (1995),01-Jan-95,['Comedy']
+440,771,Johnny Mnemonic (1995),01-Jan-95,"['Action', 'SciFi', 'Thriller']"
+441,1317,"Journey of August King, The (1995)",22-Mar-96,['Drama']
+442,373,Judge Dredd (1995),01-Jan-95,"['Action', 'Adventure', 'SciFi']"
+443,1029,Jury Duty (1995),01-Jan-95,['Comedy']
+444,1042,Just Cause (1995),01-Jan-95,"['Mystery', 'Thriller']"
+445,695,Kicking and Screaming (1995),01-Jan-95,"['Comedy', 'Drama']"
+446,560,"Kid in King Arthur's Court, A (1995)",01-Jan-95,"['Adventure', 'Childrens', 'Comedy', 'Fantasy', 'Romance', 'SciFi']"
+447,772,Kids (1995),01-Jan-95,['Drama']
+448,1505,Killer: A Journal of Murder (1995),06-Sep-96,"['Crime', 'Drama']"
+449,1208,Kiss of Death (1995),01-Jan-95,"['Crime', 'Drama', 'Thriller']"
+450,1240,Ghost in the Shell (Kokaku kidotai) (1995),12-Apr-96,"['Animation', 'SciFi']"
+451,1465,Last Summer in the Hamptons (1995),01-Jan-95,"['Comedy', 'Drama']"
+452,276,Leaving Las Vegas (1995),01-Jan-95,"['Drama', 'Romance']"
+453,1063,"Little Princess, A (1995)",01-Jan-95,"['Childrens', 'Drama']"
+454,1093,Live Nude Girls (1995),01-Mar-96,['Comedy']
+455,1070,Living in Oblivion (1995),01-Jan-95,['Comedy']
+456,839,Loch Ness (1995),01-Jan-95,"['Horror', 'Thriller']"
+457,551,Lord of Illusions (1995),01-Jan-95,['Horror']
+458,1518,Losing Isaiah (1995),01-Jan-95,['Drama']
+459,1343,Lotto Land (1995),01-Jan-95,['Drama']
+460,1619,All Things Fair (1996),08-Mar-96,['Drama']
+461,36,Mad Love (1995),01-Jan-95,"['Drama', 'Romance']"
+462,1459,Madame Butterfly (1995),20-Sep-96,['Musical']
+463,721,Mallrats (1995),01-Jan-95,['Comedy']
+464,1179,Man of the House (1995),01-Jan-95,['Comedy']
+465,766,Man of the Year (1995),01-Mar-96,['Documentary']
+466,1466,Margaret's Museum (1995),01-Jan-95,['Drama']
+467,700,Miami Rhapsody (1995),01-Jan-95,['Comedy']
+468,13,Mighty Aphrodite (1995),30-Oct-95,['Comedy']
+469,374,Mighty Morphin Power Rangers: The Movie (1995),01-Jan-95,"['Action', 'Childrens']"
+470,1673,Mirage (1995),01-Jan-95,"['Action', 'Thriller']"
+471,1493,"Modern Affair, A (1995)",06-Sep-96,['Romance']
+472,540,Money Train (1995),01-Jan-95,['Action']
+473,1441,Moonlight and Valentino (1995),01-Jan-95,"['Drama', 'Romance']"
+474,541,Mortal Kombat (1995),01-Jan-95,"['Action', 'Adventure']"
+475,15,Mr. Holland's Opus (1995),29-Jan-96,['Drama']
+476,939,Murder in the First (1995),01-Jan-95,"['Drama', 'Thriller']"
+477,1305,National Lampoon's Senior Trip (1995) ???,01-Jan-95,['Comedy']
+478,1506,Nelly & Monsieur Arnaud (1995),12-Apr-96,['Drama']
+479,1319,"Neon Bible, The (1995)",01-Mar-96,['Drama']
+480,38,"Net, The (1995)",01-Jan-95,"['SciFi', 'Thriller']"
+481,1519,New Jersey Drive (1995),01-Jan-95,"['Crime', 'Drama']"
+482,761,Nick of Time (1995),01-Jan-95,"['Action', 'Thriller']"
+483,1629,Nico Icon (1995),01-Jan-95,['Documentary']
+484,722,Nine Months (1995),01-Jan-95,['Comedy']
+485,458,Nixon (1995),01-Jan-95,['Drama']
+486,1663,Nothing Personal (1995),30-Apr-97,"['Drama', 'War']"
+487,1053,Now and Then (1995),01-Jan-95,['Drama']
+488,279,Once Upon a Time... When We Were Colored (1995),01-Jan-95,['Drama']
+489,1321,Open Season (1996),10-May-96,['Comedy']
+490,110,Operation Dumbo Drop (1995),01-Jan-95,"['Action', 'Adventure', 'Comedy', 'War']"
+491,713,Othello (1995),18-Dec-95,['Drama']
+492,54,Outbreak (1995),01-Jan-95,"['Action', 'Drama', 'Thriller']"
+493,857,Paris Was a Woman (1995),08-Nov-96,['Documentary']
+494,1071,Party Girl (1995),01-Jan-95,['Comedy']
+495,786,"Perez Family, The (1995)",01-Jan-95,"['Comedy', 'Romance']"
+496,1574,Pharaoh's Army (1995),01-Jan-95,['War']
+497,1259,Pie in the Sky (1995) ? 96,09-Feb-96,"['Comedy', 'Romance']"
+498,253,"Pillow Book, The (1995)",13-Jun-97,"['Drama', 'Romance']"
+499,542,Pocahontas (1995),01-Jan-95,"['Animation', 'Childrens', 'Musical', 'Romance']"
+500,1229,Poison Ivy II (1995),01-Jan-95,"['Drama', 'Thriller']"
+501,365,Powder (1995),01-Jan-95,['Drama']
+502,830,Power 98 (1995),17-May-96,"['Action', 'Mystery', 'Thriller']"
+503,774,"Prophecy, The (1995)",01-Jan-95,['Horror']
+504,1072,"Pyromaniac's Love Story, A (1995)",01-Jan-95,"['Comedy', 'Romance']"
+505,562,"Quick and the Dead, The (1995)",01-Jan-95,"['Action', 'Adventure']"
+506,1479,Reckless (1995),01-Jan-95,['Comedy']
+507,1155,"Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)",28-Jun-96,"['Comedy', 'Romance']"
+508,277,Restoration (1995),01-Jan-95,['Drama']
+509,10,Richard III (1995),22-Jan-96,"['Drama', 'War']"
+510,549,Rob Roy (1995),01-Jan-95,"['Drama', 'Romance', 'War']"
+511,787,Roommates (1995),01-Jan-95,"['Comedy', 'Drama']"
+512,1662,Rough Magic (1995),30-May-97,"['Drama', 'Romance']"
+513,1261,"Run of the Country, The (1995)",01-Jan-95,['Drama']
+514,274,Sabrina (1995),01-Jan-95,"['Comedy', 'Romance']"
+515,1131,Safe (1995),01-Jan-95,['Thriller']
+516,1442,"Scarlet Letter, The (1995)",01-Jan-95,['Drama']
+517,760,Screamers (1995),01-Jan-95,['SciFi']
+518,11,Seven (Se7en) (1995),01-Jan-95,"['Crime', 'Thriller']"
+519,275,Sense and Sensibility (1995),01-Jan-95,"['Drama', 'Romance']"
+520,1547,"Show, The (1995)",01-Jan-95,['Documentary']
+521,375,Showgirls (1995),01-Jan-95,['Drama']
+522,1460,Sleepover (1995),25-Oct-96,"['Comedy', 'Drama']"
+523,1660,Small Faces (1995) ? 96,09-Aug-96,['Drama']
+524,461,Smoke (1995),01-Jan-95,['Drama']
+525,775,Something to Talk About (1995),01-Jan-95,"['Comedy', 'Drama', 'Romance']"
+526,552,Species (1995),01-Jan-95,['SciFi']
+527,1464,"Stars Fell on Henrietta, The (1995)",01-Jan-95,['Drama']
+528,1435,"Steal Big, Steal Little (1995)",01-Jan-95,['Comedy']
+529,1396,Stonewall (1995),26-Jul-96,['Drama']
+530,39,Strange Days (1995),01-Jan-95,"['Action', 'Crime', 'SciFi']"
+531,997,Stuart Saves His Family (1995),01-Jan-95,['Comedy']
+532,363,Sudden Death (1995),01-Jan-95,['Action']
+533,1677,Sweet Nothing (1995),20-Sep-96,['Drama']
+534,379,Tales From the Crypt Presents: Demon Knight (1995),01-Jan-95,['Horror']
+535,564,Tales from the Hood (1995),01-Jan-95,"['Comedy', 'Horror']"
+536,1110,Tank Girl (1995),01-Jan-95,"['Action', 'Comedy', 'Musical', 'SciFi']"
+537,1657,Target (1995),28-Feb-96,"['Action', 'Drama']"
+538,104,Theodore Rex (1995),29-Mar-96,['Comedy']
+539,544,Things to Do in Denver when You're Dead (1995),02-Feb-96,"['Crime', 'Drama', 'Romance']"
+540,776,Three Wishes (1995),01-Jan-95,['Drama']
+541,1253,"Tie That Binds, The (1995)",01-Jan-95,['Thriller']
+542,1632,Land and Freedom (Tierra y libertad) (1995),29-Mar-96,['War']
+543,715,To Die For (1995),01-Jan-95,"['Comedy', 'Drama']"
+544,40,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",01-Jan-95,['Comedy']
+545,1613,Tokyo Fist (1995),11-Feb-98,"['Action', 'Drama']"
+546,790,Tommy Boy (1995),01-Jan-95,['Comedy']
+547,1260,Total Eclipse (1995),01-Jan-95,['Drama']
+548,1,Toy Story (1995),01-Jan-95,"['Animation', 'Childrens', 'Comedy']"
+549,7,Twelve Monkeys (1995),01-Jan-95,"['Drama', 'SciFi']"
+550,920,Two Bits (1995),01-Jan-95,['Drama']
+551,1228,Under Siege 2: Dark Territory (1995),01-Jan-95,['Action']
+552,1529,Underground (1995),29-Mar-96,['War']
+553,1553,"Underneath, The (1995)",01-Jan-95,"['Mystery', 'Thriller']"
+554,953,Unstrung Heroes (1995),01-Jan-95,"['Comedy', 'Drama']"
+555,954,Unzipped (1995),01-Jan-95,['Documentary']
+556,1068,"Star Maker, The (Uomo delle stelle, L') (1995)",01-Mar-96,['Drama']
+557,12,"Usual Suspects, The (1995)",14-Aug-95,"['Crime', 'Thriller']"
+558,545,Vampire in Brooklyn (1995),01-Jan-95,"['Comedy', 'Romance']"
+559,565,Village of the Damned (1995),01-Jan-95,"['Horror', 'Thriller']"
+560,1210,Virtuosity (1995),01-Jan-95,"['SciFi', 'Thriller']"
+561,1311,Waiting to Exhale (1995),15-Jan-96,"['Comedy', 'Drama']"
+562,553,"Walk in the Clouds, A (1995)",01-Jan-95,"['Drama', 'Romance']"
+563,1423,"Walking Dead, The (1995)",01-Jan-95,"['Drama', 'War']"
+564,554,Waterworld (1995),01-Jan-95,"['Action', 'Adventure']"
+565,93,Welcome to the Dollhouse (1995),24-May-96,"['Comedy', 'Drama']"
+566,1406,When Night Is Falling (1995),01-Jan-95,"['Drama', 'Romance']"
+567,66,While You Were Sleeping (1995),01-Jan-95,"['Comedy', 'Romance']"
+568,555,White Man's Burden (1995),01-Jan-95,['Drama']
+569,1627,"Wife, The (1995)",26-Jul-96,"['Comedy', 'Drama']"
+570,556,Wild Bill (1995),01-Jan-95,[]
+571,1515,Wings of Courage (1995),01-Jan-95,"['Adventure', 'Romance']"
+572,6,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),01-Jan-95,['Drama']
+573,547,"Young Poisoner's Handbook, The (1995)",23-Feb-96,['Crime']
+574,225,101 Dalmatians (1996),27-Nov-96,"['Childrens', 'Comedy']"
+575,1011,2 Days in the Valley (1996),27-Sep-96,['Crime']
+576,1060,"Adventures of Pinocchio, The (1996)",26-Jul-96,"['Adventure', 'Childrens']"
+577,828,Alaska (1996),21-Aug-96,"['Adventure', 'Childrens']"
+578,1083,Albino Alligator (1996),17-Jan-97,"['Crime', 'Thriller']"
+579,103,All Dogs Go to Heaven 2 (1996),29-Mar-96,"['Animation', 'Childrens', 'Musical']"
+580,1335,American Buffalo (1996),13-Sep-96,['Drama']
+581,1362,American Strays (1996),13-Sep-96,['Action']
+582,825,"Arrival, The (1996)",31-May-96,"['Action', 'SciFi', 'Thriller']"
+583,1051,"Associate, The (1996)",19-Oct-96,['Comedy']
+584,1325,August (1996),12-Apr-96,['Drama']
+585,1639,Bitter Sugar (Azucar Amargo) (1996),22-Nov-96,['Drama']
+586,706,Bad Moon (1996),01-Nov-96,['Horror']
+587,1215,Barb Wire (1996),03-May-96,"['Action', 'SciFi']"
+588,1010,Basquiat (1996),16-Aug-96,['Drama']
+589,454,Bastard Out of Carolina (1996),15-Dec-96,['Drama']
+590,762,Beautiful Girls (1996),09-Feb-96,['Drama']
+591,1137,Beautiful Thing (1996),09-Oct-96,"['Drama', 'Romance']"
+592,240,Beavis and Butt-head Do America (1996),20-Dec-96,"['Animation', 'Comedy']"
+593,278,Bed of Roses (1996),01-Jan-96,"['Drama', 'Romance']"
+594,1284,Before and After (1996),23-Feb-96,"['Drama', 'Mystery']"
+595,1165,Big Bully (1996),01-Jan-96,"['Comedy', 'Drama']"
+596,137,Big Night (1996),20-Sep-96,['Drama']
+597,598,"Big Squeeze, The (1996)",06-Sep-96,"['Comedy', 'Drama']"
+598,368,Bio-Dome (1996),01-Jan-96,['Comedy']
+599,1364,Bird of Prey (1996),04-Oct-96,['Action']
+600,25,"Birdcage, The (1996)",08-Mar-96,['Comedy']
+601,369,Black Sheep (1996),02-Feb-96,['Comedy']
+602,985,Blood & Wine (1997),15-Nov-96,['Drama']
+603,852,"Bloody Child, The (1996)",26-Oct-96,"['Drama', 'Thriller']"
+604,832,Bogus (1996),06-Sep-96,"['Childrens', 'Drama', 'Fantasy']"
+605,1067,Bottle Rocket (1996),21-Feb-96,['Comedy']
+606,129,Bound (1996),04-Oct-96,"['Crime', 'Drama', 'Romance', 'Thriller']"
+607,1326,Boys (1996),10-May-96,['Drama']
+608,936,Brassed Off (1996),13-Jun-97,"['Comedy', 'Drama', 'Romance']"
+609,221,Breaking the Waves (1996),15-Nov-96,['Drama']
+610,546,Broken Arrow (1996),09-Feb-96,"['Action', 'Thriller']"
+611,1255,Broken English (1996),02-May-97,['Drama']
+612,833,Bulletproof (1996),06-Sep-96,['Action']
+613,122,"Cable Guy, The (1996)",14-Jun-96,['Comedy']
+614,1496,Carpool (1996),23-Aug-96,"['Comedy', 'Crime']"
+615,1085,Carried Away (1996),29-Mar-96,"['Drama', 'Romance']"
+616,1174,Caught (1996),27-Sep-96,"['Drama', 'Thriller']"
+617,1291,Celtic Pride (1996),19-Apr-96,['Comedy']
+618,256,When the Cats Away (Chacun cherche son chat) (1996),20-Jun-97,"['Comedy', 'Romance']"
+619,930,Chain Reaction (1996),31-Jul-96,"['Action', 'Adventure', 'Thriller']"
+620,620,"Chamber, The (1996)",11-Oct-96,['Drama']
+621,1511,Children of the Revolution (1996),01-May-97,['Comedy']
+622,236,Citizen Ruth (1996),13-Dec-96,"['Comedy', 'Drama']"
+623,696,City Hall (1996),16-Feb-96,"['Drama', 'Thriller']"
+624,1537,Cosi (1996),11-Apr-97,['Comedy']
+625,471,Courage Under Fire (1996),08-Mar-96,"['Drama', 'War']"
+626,928,"Craft, The (1996)",26-Apr-96,"['Drama', 'Horror']"
+627,325,Crash (1996),21-Mar-97,"['Drama', 'Thriller']"
+628,743,"Crow: City of Angels, The (1996)",30-Aug-96,"['Action', 'Thriller']"
+629,676,"Crucible, The (1996)",27-Nov-96,['Drama']
+630,1081,Curdled (1996),27-Sep-96,['Crime']
+631,138,D3: The Mighty Ducks (1996),04-Oct-96,"['Childrens', 'Comedy']"
+632,827,Daylight (1996),06-Dec-96,"['Action', 'Adventure', 'Thriller']"
+633,533,"Daytrippers, The (1996)",21-Mar-97,['Mystery']
+634,1092,Dear God (1996),01-Nov-96,['Comedy']
+635,106,Diabolique (1996),01-Jan-96,"['Drama', 'Thriller']"
+636,1059,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996),01-Jan-96,['Comedy']
+637,926,Down Periscope (1996),01-Mar-96,['Comedy']
+638,472,Dragonheart (1996),31-May-96,"['Action', 'Adventure', 'Fantasy']"
+639,1177,Dunston Checks In (1996),01-Jan-96,['Comedy']
+640,1287,Ed (1996),08-Mar-96,['Comedy']
+641,1356,Ed's Next Move (1996),04-Oct-96,['Comedy']
+642,819,Eddie (1996),31-May-96,['Comedy']
+643,283,Emma (1996),02-Aug-96,"['Drama', 'Romance']"
+644,286,"English Patient, The (1996)",15-Nov-96,"['Drama', 'Romance', 'War']"
+645,1653,Entertaining Angels: The Dorothy Day Story (1996),27-Sep-96,['Drama']
+646,597,Eraser (1996),21-Jun-96,"['Action', 'Thriller']"
+647,831,Escape from L.A. (1996),09-Aug-96,"['Action', 'Adventure', 'SciFi', 'Thriller']"
+648,1061,"Evening Star, The (1996)",25-Dec-96,"['Comedy', 'Drama']"
+649,319,Everyone Says I Love You (1996),06-Dec-96,"['Comedy', 'Musical', 'Romance']"
+650,289,Evita (1996),25-Dec-96,"['Drama', 'Musical']"
+651,685,Executive Decision (1996),09-Mar-96,"['Action', 'Thriller']"
+652,619,Extreme Measures (1996),27-Sep-96,"['Drama', 'Thriller']"
+653,974,Eye for an Eye (1996),01-Jan-96,"['Drama', 'Thriller']"
+654,1114,Faithful (1996),03-Apr-96,['Comedy']
+655,1197,"Family Thing, A (1996)",23-Mar-96,"['Comedy', 'Drama']"
+656,595,"Fan, The (1996)",16-Aug-96,['Thriller']
+657,100,Fargo (1996),14-Feb-97,"['Crime', 'Drama', 'Thriller']"
+658,975,Fear (1996),12-Apr-96,['Thriller']
+659,1132,Feeling Minnesota (1996),13-Sep-96,"['Drama', 'Romance']"
+660,1082,Female Perversions (1996),25-Apr-97,['Drama']
+661,1652,Temptress Moon (Feng Yue) (1996),13-Jun-97,['Romance']
+662,677,Fire on the Mountain (1996),24-Jan-97,['Documentary']
+663,932,First Kid (1996),30-Aug-96,"['Childrens', 'Comedy']"
+664,476,"First Wives Club, The (1996)",14-Sep-96,['Comedy']
+665,829,Fled (1996),19-Jul-96,"['Action', 'Adventure']"
+666,112,Flipper (1996),10-May-96,"['Adventure', 'Childrens']"
+667,1098,Flirting With Disaster (1996),22-Mar-96,['Comedy']
+668,304,Fly Away Home (1996),13-Sep-96,"['Adventure', 'Childrens']"
+669,1391,For Ever Mozart (1996),04-Jul-97,['Drama']
+670,1263,Foxfire (1996),23-Aug-96,['Drama']
+671,844,Freeway (1996),23-Aug-96,['Crime']
+672,123,"Frighteners, The (1996)",19-Jul-96,"['Comedy', 'Horror']"
+673,17,From Dusk Till Dawn (1996),05-Feb-96,"['Action', 'Comedy', 'Crime', 'Horror', 'Thriller']"
+674,933,"Funeral, The (1996)",25-Oct-96,['Drama']
+675,1134,Get on the Bus (1996),16-Oct-96,['Drama']
+676,1659,Getting Away With Murder (1996),12-Apr-96,['Comedy']
+677,148,"Ghost and the Darkness, The (1996)",11-Oct-96,"['Action', 'Adventure']"
+678,1136,Ghosts of Mississippi (1996),20-Dec-96,['Drama']
+679,818,Girl 6 (1996),22-Mar-96,['Comedy']
+680,1637,Girls Town (1996),23-Aug-96,['Drama']
+681,841,"Glimmer Man, The (1996)",04-Oct-96,"['Action', 'Thriller']"
+682,1426,Grace of My Heart (1996),13-Sep-96,"['Comedy', 'Drama']"
+683,824,"Great White Hype, The (1996)",03-May-96,['Comedy']
+684,1039,Hamlet (1996),24-Jan-97,['Drama']
+685,763,Happy Gilmore (1996),16-Feb-96,['Comedy']
+686,929,Harriet the Spy (1996),03-Jul-96,"['Childrens', 'Comedy']"
+687,992,Head Above Water (1996),20-Jun-97,"['Comedy', 'Thriller']"
+688,868,Hearts and Minds (1996),10-Jan-97,['Drama']
+689,978,Heaven's Prisoners (1996),10-May-96,"['Mystery', 'Thriller']"
+690,590,Hellraiser: Bloodline (1996),08-Mar-96,"['Action', 'Horror', 'SciFi']"
+691,1095,High School High (1996),25-Oct-96,['Comedy']
+692,1033,Homeward Bound II: Lost in San Francisco (1996),08-Mar-96,"['Adventure', 'Childrens']"
+693,1377,Hotel de Love (1996),07-Feb-97,"['Comedy', 'Romance']"
+694,1049,House Arrest (1996),02-Aug-96,['Comedy']
+695,1640,"Eighth Day, The (1996)",01-Nov-96,['Drama']
+696,596,"Hunchback of Notre Dame, The (1996)",21-Jun-96,"['Animation', 'Childrens', 'Musical']"
+697,1008,I Shot Andy Warhol (1996),01-May-96,['Drama']
+698,1120,I'm Not Rappaport (1996),13-Nov-96,['Comedy']
+699,764,If Lucy Fell (1996),08-Mar-96,"['Comedy', 'Romance']"
+700,1152,In Love and War (1996),24-Jan-97,"['Romance', 'War']"
+701,121,Independence Day (ID4) (1996),03-Jul-96,"['Action', 'SciFi', 'War']"
+702,1355,Infinity (1996),04-Oct-96,['Drama']
+703,1611,Intimate Relations (1996),09-May-97,['Comedy']
+704,931,"Island of Dr. Moreau, The (1996)",23-Aug-96,"['SciFi', 'Thriller']"
+705,409,Jack (1996),07-Aug-96,"['Comedy', 'Drama']"
+706,473,James and the Giant Peach (1996),12-Apr-96,"['Animation', 'Childrens', 'Musical']"
+707,740,Jane Eyre (1996),05-Apr-96,"['Drama', 'Romance']"
+708,237,Jerry Maguire (1996),13-Dec-96,"['Drama', 'Romance']"
+709,862,Jingle All the Way (1996),22-Nov-96,"['Adventure', 'Childrens', 'Comedy']"
+710,1079,Joe's Apartment (1996),26-Jul-96,"['Comedy', 'Musical']"
+711,1543,Johns (1996),18-Oct-96,['Drama']
+712,149,Jude (1996),01-Nov-96,['Drama']
+713,717,"Juror, The (1996)",01-Jan-96,"['Drama', 'Thriller']"
+714,532,Kama Sutra: A Tale of Love (1996),07-Mar-97,['Romance']
+715,130,Kansas City (1996),16-Aug-96,['Crime']
+716,1501,Prisoner of the Mountains (Kavkazsky Plennik) (1996),31-Jan-97,['War']
+717,1336,Kazaam (1996),17-Jul-96,"['Childrens', 'Comedy', 'Fantasy']"
+718,108,Kids in the Hall: Brain Candy (1996),12-Apr-96,['Comedy']
+719,410,Kingpin (1996),12-Jul-96,['Comedy']
+720,1216,Kissed (1996),18-Apr-97,['Romance']
+721,242,Kolya (1996),24-Jan-97,['Comedy']
+722,1337,Larger Than Life (1996),01-Nov-96,['Comedy']
+723,840,Last Man Standing (1996),20-Sep-96,"['Action', 'Drama']"
+724,1302,Late Bloomers (1996),06-Jun-97,['Comedy']
+725,758,Lawnmower Man 2: Beyond Cyberspace (1996),01-Jan-96,"['SciFi', 'Thriller']"
+726,1612,"Leading Man, The (1996)",16-Jan-98,['Romance']
+727,1363,"Leopard Son, The (1996)",27-Sep-96,['Documentary']
+728,1497,"Line King: Al Hirschfeld, The (1996)",11-Oct-96,['Documentary']
+729,124,Lone Star (1996),21-Jun-96,"['Drama', 'Mystery']"
+730,147,"Long Kiss Goodnight, The (1996)",05-Oct-96,"['Action', 'Thriller']"
+731,847,Looking for Richard (1996),11-Oct-96,"['Documentary', 'Drama']"
+732,1457,Love Is All There Is (1996),11-Oct-96,"['Comedy', 'Drama']"
+733,1605,Love Serenade (1996),11-Jul-97,['Comedy']
+734,1379,Love and Other Catastrophes (1996),28-Mar-97,['Romance']
+735,1351,Lover's Knot (1996),12-Jul-96,['Comedy']
+736,1669,MURDER and murder (1996),20-Jun-97,"['Crime', 'Drama', 'Mystery']"
+737,1510,Mad Dog Time (1996),08-Nov-96,['Crime']
+738,1281,Manny & Lo (1996),26-Jul-96,['Drama']
+739,235,Mars Attacks! (1996),13-Dec-96,"['Action', 'Comedy', 'SciFi', 'War']"
+740,287,Marvin's Room (1996),18-Dec-96,['Drama']
+741,370,Mary Reilly (1996),23-Feb-96,"['Drama', 'Thriller']"
+742,477,Matilda (1996),02-Aug-96,"['Childrens', 'Comedy']"
+743,982,Maximum Risk (1996),13-Sep-96,"['Action', 'Adventure', 'Thriller']"
+744,866,Michael (1996),25-Dec-96,"['Comedy', 'Romance']"
+745,744,Michael Collins (1996),11-Oct-96,"['Drama', 'War']"
+746,634,Microcosmos: Le peuple de l'herbe (1996) ?????,11-Oct-96,['Documentary']
+747,1251,A Chef in Love (1996),25-Apr-97,['Comedy']
+748,220,"Mirror Has Two Faces, The (1996)",15-Nov-96,"['Comedy', 'Romance']"
+749,405,Mission: Impossible (1996),22-May-96,"['Action', 'Adventure', 'Mystery']"
+750,107,Moll Flanders (1996),14-Jun-96,['Drama']
+751,1389,Mondo (1996) ?? 95,27-Jun-97,['Drama']
+752,321,Mother (1996),25-Dec-96,['Comedy']
+753,980,Mother Night (1996),01-Nov-96,['Drama']
+754,1054,Mr. Wrong (1996),16-Feb-96,['Comedy']
+755,821,Mrs. Winterbourne (1996),19-Apr-96,"['Comedy', 'Romance']"
+756,823,Mulholland Falls (1996),26-Apr-96,"['Crime', 'FilmNoir', 'Thriller']"
+757,1047,Multiplicity (1996),12-Jul-96,['Comedy']
+758,21,Muppet Treasure Island (1996),16-Feb-96,"['Action', 'Adventure', 'Comedy', 'Musical', 'Thriller']"
+759,864,My Fellow Americans (1996),20-Dec-96,['Comedy']
+760,109,Mystery Science Theater 3000: The Movie (1996),19-Apr-96,"['Comedy', 'SciFi']"
+761,1638,Normal Life (1996),25-Oct-96,"['Crime', 'Drama']"
+762,411,"Nutty Professor, The (1996)",28-Jun-96,"['Comedy', 'Fantasy', 'Romance', 'SciFi']"
+763,1233,N�nette et Boni (1996),01-Jan-96,['Drama']
+764,815,One Fine Day (1996),30-Nov-96,"['Drama', 'Romance']"
+765,1151,Original Gangstas (1996),10-May-96,['Crime']
+766,1057,"Pallbearer, The (1996)",19-Apr-96,['Comedy']
+767,1161,Palookaville (1996),25-Oct-96,"['Action', 'Drama']"
+768,320,Paradise Lost: The Child Murders at Robin Hood Hills (1996),06-Dec-96,['Documentary']
+769,508,"People vs. Larry Flynt, The (1996)",27-Dec-96,['Drama']
+770,850,"Perfect Candidate, A (1996)",27-Sep-96,['Documentary']
+771,826,"Phantom, The (1996)",07-Jun-96,['Adventure']
+772,1162,Phat Beach (1996),02-Aug-96,['Comedy']
+773,125,Phenomenon (1996),29-Jun-96,"['Drama', 'Romance']"
+774,1312,"Pompatus of Love, The (1996)",26-Jul-96,"['Comedy', 'Drama']"
+775,536,Ponette (1996),23-May-97,['Drama']
+776,1163,"Portrait of a Lady, The (1996)",27-Dec-96,['Drama']
+777,934,"Preacher's Wife, The (1996)",13-Dec-96,['Drama']
+778,591,Primal Fear (1996),30-Mar-96,"['Drama', 'Thriller']"
+779,296,"Promesse, La (1996)",16-May-97,['Drama']
+780,1034,"Quest, The (1996)",26-Apr-96,"['Action', 'Adventure']"
+781,1144,"Quiet Room, The (1996)",02-May-97,['Drama']
+782,1517,Race the Sun (1996),01-Jan-96,['Drama']
+783,742,Ransom (1996),08-Nov-96,"['Drama', 'Thriller']"
+784,983,"Rich Man's Wife, The (1996)",13-Sep-96,['Thriller']
+785,224,Ridicule (1996),27-Nov-96,['Drama']
+786,1666,Ripe (1996),02-May-97,['Drama']
+787,117,"Rock, The (1996)",07-Jun-96,"['Action', 'Adventure', 'Thriller']"
+788,1500,Santa with Muscles (1996),08-Nov-96,['Comedy']
+789,1589,Schizopolis (1996),23-May-97,['Comedy']
+790,288,Scream (1996),20-Dec-96,"['Horror', 'Thriller']"
+791,1205,"Secret Agent, The (1996)",08-Nov-96,['Drama']
+792,285,Secrets & Lies (1996),04-Oct-96,['Drama']
+793,1277,Set It Off (1996),25-Sep-96,"['Action', 'Crime']"
+794,105,Sgt. Bilko (1996),29-Mar-96,['Comedy']
+795,251,Shall We Dance? (1996),11-Jul-97,['Comedy']
+796,1048,She's the One (1996),23-Aug-96,"['Comedy', 'Romance']"
+797,531,Shine (1996),22-Nov-96,"['Drama', 'Romance']"
+798,628,Sleepers (1996),18-Oct-96,"['Crime', 'Drama']"
+799,223,Sling Blade (1996),22-Nov-96,"['Drama', 'Thriller']"
+800,976,Solo (1996),23-Aug-96,"['Action', 'SciFi', 'Thriller']"
+801,1642,Some Mother's Son (1996),27-Dec-96,['Drama']
+802,820,Space Jam (1996),15-Nov-96,"['Adventure', 'Animation', 'Childrens', 'Comedy', 'Fantasy']"
+803,126,"Spitfire Grill, The (1996)",06-Sep-96,['Drama']
+804,407,Spy Hard (1996),24-May-96,['Comedy']
+805,222,Star Trek: First Contact (1996),22-Nov-96,"['Action', 'Adventure', 'SciFi']"
+806,1009,Stealing Beauty (1996),14-Jun-96,['Drama']
+807,120,Striptease (1996),28-Jun-96,"['Comedy', 'Crime']"
+808,1001,"Stupids, The (1996)",30-Aug-96,['Comedy']
+809,711,"Substance of Fire, The (1996)",06-Dec-96,['Drama']
+810,1658,"Substance of Fire, The (1996)",06-Dec-96,['Drama']
+811,977,"Substitute, The (1996)",19-Apr-96,['Action']
+812,1644,Sudden Manhattan (1996),13-Jun-97,['Comedy']
+813,1675,"Sunchaser, The (1996)",25-Oct-96,['Drama']
+814,1276,Sunset Park (1996),26-Apr-96,['Drama']
+815,1117,Surviving Picasso (1996),20-Sep-96,['Drama']
+816,150,Swingers (1996),18-Oct-96,"['Comedy', 'Drama']"
+817,413,Bordello of Blood (1996),19-Jul-96,['Horror']
+818,845,That Thing You Do! (1996),28-Sep-96,['Comedy']
+819,1094,"Thin Line Between Love and Hate, A (1996)",03-Apr-96,['Comedy']
+820,406,Thinner (1996),25-Oct-96,"['Horror', 'Thriller']"
+821,282,"Time to Kill, A (1996)",13-Jul-96,['Drama']
+822,284,Tin Cup (1996),16-Aug-96,"['Comedy', 'Romance']"
+823,846,To Gillian on Her 37th Birthday (1996),18-Oct-96,"['Drama', 'Romance']"
+824,475,Trainspotting (1996),19-Jul-96,['Drama']
+825,1017,Trees Lounge (1996),,['Drama']
+826,979,"Trigger Effect, The (1996)",30-Aug-96,"['Drama', 'Thriller']"
+827,1507,Three Lives and Only One Death (1996),11-Oct-96,['Comedy']
+828,111,"Truth About Cats & Dogs, The (1996)",26-Apr-96,"['Comedy', 'Romance']"
+829,1237,Twisted (1996),01-Jan-96,"['Comedy', 'Drama']"
+830,118,Twister (1996),10-May-96,"['Action', 'Adventure', 'Thriller']"
+831,1338,Two Deaths (1995),09-Aug-96,['Drama']
+832,1102,Two Much (1996),01-Jan-96,"['Comedy', 'Romance']"
+833,1040,Two if by Sea (1996),01-Jan-96,"['Comedy', 'Romance']"
+834,925,Unforgettable (1996) ?,23-Feb-96,"['SciFi', 'Thriller']"
+835,146,Unhook the Stars (1996),30-Oct-96,['Drama']
+836,280,Up Close and Personal (1996),01-Mar-96,"['Drama', 'Romance']"
+837,1241,"Van, The (1996)",27-Jun-97,"['Comedy', 'Drama']"
+838,412,"Very Brady Sequel, A (1996)",23-Aug-96,['Comedy']
+839,1462,"Thieves (Voleurs, Les) (1996)",25-Dec-96,"['Crime', 'Drama', 'Romance']"
+840,1007,Waiting for Guffman (1996),31-Jan-97,['Comedy']
+841,1262,Walking and Talking (1996),12-Jul-96,['Romance']
+842,1676,"War at Home, The (1996)",01-Jan-96,['Drama']
+843,1668,Wedding Bell Blues (1996),13-Jun-97,['Comedy']
+844,1142,When We Were Kings (1996),14-Feb-97,['Documentary']
+845,924,White Squall (1996),01-Jan-96,"['Adventure', 'Drama']"
+846,867,"Whole Wide World, The (1996)",25-Dec-96,['Drama']
+847,1238,Full Speed (1996),01-Jan-96,['Drama']
+848,1143,Hard Eight (1996),28-Feb-97,"['Crime', 'Thriller']"
+849,1226,Night Falls on Manhattan (1997) ? 1996,16-May-97,"['Crime', 'Drama']"
+850,1236,"Other Voices, Other Rooms (1997)",01-Jan-97,['Drama']
+851,1015,Shiloh (1997),23-May-97,"['Childrens', 'Drama']"
+852,1428,SubUrbia (1997),07-Feb-97,['Comedy']
+853,987,Underworld (1997),09-May-97,['Thriller']
+854,1372,"Stranger, The (1994)",01-Jan-94,['Action']
+855,329,Desperate Measures (1998),30-Jan-98,"['Crime', 'Drama', 'Thriller']"
+856,1438,Panther (1995) ?? 2 same year,01-Jan-95,['Drama']
+857,1398,Anna (1996),13-Nov-96,['Drama']
+858,28,Apollo 13 (1995),01-Jan-95,"['Action', 'Drama', 'Thriller']"
+859,990,Anna Karenina (1997),04-Apr-97,"['Drama', 'Romance']"
